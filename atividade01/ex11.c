@@ -1,7 +1,7 @@
 #include <stdio.h>
 int celsius(int f){
 	int c;
-	c =(5*(F*32)/9);
+	c =(5*(F-32)/9);
 	return(c);
 	}
 int main(){
