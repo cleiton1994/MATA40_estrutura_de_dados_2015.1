@@ -1,7 +1,7 @@
 #include <stdio.h>
 float area(int a){
 	float result;
-	result = 3:141592*(a*a);
+	result = 3.141592*(a*a);
 	return(result);
 	}
 int main(){
