@@ -21,7 +21,7 @@ void verifica(int a,int b,int c){
 }
 
 int main(){
-	int a,b,c,d;
+	int a,b,c;
 	scanf("%d %d %d",&a,&b,&c);
 	verifica(a,b,c);
 	return(0);
