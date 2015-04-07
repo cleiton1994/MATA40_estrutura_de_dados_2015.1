@@ -1,1 +1,1 @@
-//As alternativas a),c),f) possuem atribuições ilegais.
+//As alternativas b),d),f) possuem atribuiÃ§Ãµes ilegais.
